@@ -1,0 +1,8 @@
+PyBer Analysis
+
+1. One of the conclusions I drew was that there is a correlation between the number of rides and average fare per city. Urban cities have the majority 
+of ride and drivers, yet they have the lowest fares. Trips in urban cities are often shorter than suburban and rural, but they happen far more frequently.
+
+2. Rural areas struggled to attract more Pyber drivers as they make up the smallest percentage of drivers. Rural areas have both the highest average fare cost and the lowest amount of rides.
+
+3. More than 75% of all drivers for uber operate in an urban environment.
